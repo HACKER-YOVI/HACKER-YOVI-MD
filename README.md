@@ -4,7 +4,7 @@
   
 <p align="center">  
   <a href="https://youtube.com/channel/UCLUS9v7q4JagAqIJ3eeMM8w">
-    <img alt=Phoenix-MD height="300" src="https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg">
+    <img alt=Phoenix-MD height="300" src="https://i.ibb.co/CWccgGs/20240805-230553.jpg">
    
 </a> 
     
