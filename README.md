@@ -14,7 +14,7 @@
 
 ####  
 Phoenix-MD Multi Device Whatsapp Bot.
-## <sub>[External Plugins](https://github.com/AbhishekSuresh2/External-Plugins)</sub>
+## <sub>[External Plugins](https://github.com/HACKER-YOVI/-HACKER-YOVI-MD-Plugins)</sub>
 
 ***
 
